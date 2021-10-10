@@ -1,2 +1,2 @@
 # Python
-Practicing algorithms in Python
+Practicing Data structures and Algorithms in Python
